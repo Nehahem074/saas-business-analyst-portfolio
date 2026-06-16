@@ -1,0 +1,501 @@
+customer_id,company_name,signup_date,plan,monthly_revenue,region,team_size,is_churned,churn_date,nps_score,features_used,support_tickets
+CS1001,"Howell, Martinez and Campbell",2026-05-29,Starter,29,India,116,False,,3,12,3
+CS1002,Rodriguez PLC,2026-05-29,Starter,29,Europe,18,True,2026-09-21,1,2,6
+CS1003,Alexander-Johnson,2026-05-29,Free,0,USA,368,False,,9,7,7
+CS1004,"Powell, Crane and Harris",2026-05-29,Starter,29,India,390,False,,3,12,13
+CS1005,Poole-Santana,2026-05-29,Free,0,India,174,False,,2,2,12
+CS1006,"Rodgers, Gomez and Wilson",2026-05-29,Free,0,Europe,415,False,,1,12,14
+CS1007,Burns-Cox,2026-05-29,Starter,29,SEA,284,False,,5,11,19
+CS1008,"Blackwell, Carlson and Henry",2026-05-29,Pro,99,USA,37,False,,1,11,7
+CS1009,"Martin, Fox and Foster",2026-05-29,Pro,99,SEA,445,False,,2,7,8
+CS1010,Williams-Sharp,2026-05-29,Starter,29,Europe,109,True,2026-09-03,5,12,20
+CS1011,Hess-Robinson,2026-05-29,Free,0,USA,127,False,,3,8,12
+CS1012,Woods Inc,2026-05-29,Free,0,SEA,114,False,,6,1,7
+CS1013,Smith PLC,2026-05-29,Pro,99,Europe,35,False,,4,10,10
+CS1014,Medina-Miller,2026-05-29,Free,0,USA,331,False,,8,3,8
+CS1015,"Savage, Gonzales and Watkins",2026-05-29,Free,0,Europe,384,False,,10,7,18
+CS1016,Long-Scott,2026-05-29,Free,0,India,262,False,,8,2,1
+CS1017,Moon-Weeks,2026-05-29,Pro,99,India,350,False,,7,10,2
+CS1018,"Gray, Dodson and Acosta",2026-05-29,Free,0,USA,130,False,,9,1,3
+CS1019,"Smith, Webb and Bates",2026-05-29,Starter,29,USA,330,False,,6,2,9
+CS1020,Walker-Harris,2026-05-29,Starter,29,USA,450,False,,5,9,5
+CS1021,"Thomas, Bennett and Cantrell",2026-05-29,Starter,29,India,432,False,,9,10,6
+CS1022,"Allen, Lee and May",2026-05-29,Free,0,Europe,400,False,,9,1,19
+CS1023,Riley-Fitzpatrick,2026-05-29,Free,0,India,451,False,,5,4,1
+CS1024,"Williams, Mann and Harris",2026-05-29,Free,0,USA,419,True,2026-10-07,2,9,4
+CS1025,"Stanley, Scott and Dorsey",2026-05-29,Free,0,USA,137,False,,9,10,13
+CS1026,Erickson-Arroyo,2026-05-29,Enterprise,499,SEA,355,False,,4,12,9
+CS1027,Mueller-Alvarado,2026-05-29,Free,0,Europe,233,True,2026-10-15,2,4,7
+CS1028,Nicholson-Paul,2026-05-29,Free,0,India,303,False,,4,1,2
+CS1029,Tyler and Sons,2026-05-29,Pro,99,India,442,True,2026-06-13,6,2,16
+CS1030,Peters Inc,2026-05-29,Free,0,Europe,372,True,2026-07-08,10,10,15
+CS1031,"Roberts, Bailey and Gill",2026-05-29,Free,0,USA,51,True,2026-06-29,7,6,13
+CS1032,Riley-House,2026-05-29,Starter,29,Europe,332,True,2026-11-19,2,1,12
+CS1033,Cruz-Morton,2026-05-29,Pro,99,Europe,99,True,2026-07-24,9,8,4
+CS1034,Berry-Bailey,2026-05-29,Starter,29,India,228,True,2026-06-24,9,2,1
+CS1035,"Cook, Beck and Walker",2026-05-29,Starter,29,USA,476,True,2026-06-28,4,3,13
+CS1036,"Bell, Mueller and Brewer",2026-05-29,Starter,29,India,32,False,,3,7,0
+CS1037,Morales Inc,2026-05-29,Enterprise,499,India,234,False,,5,7,17
+CS1038,Smith-Salazar,2026-05-29,Starter,29,USA,497,True,2026-07-30,1,10,17
+CS1039,Brennan Group,2026-05-29,Free,0,India,259,True,2026-10-05,9,3,1
+CS1040,Cooper Group,2026-05-29,Enterprise,499,India,306,False,,2,11,7
+CS1041,Howell and Sons,2026-05-29,Starter,29,SEA,298,False,,10,1,19
+CS1042,"Harris, Arellano and Davis",2026-05-29,Free,0,Europe,163,False,,5,4,10
+CS1043,Christensen LLC,2026-05-29,Free,0,USA,155,False,,8,6,2
+CS1044,Hines and Sons,2026-05-29,Free,0,USA,53,False,,2,9,6
+CS1045,Jackson Inc,2026-05-29,Starter,29,India,37,False,,4,6,9
+CS1046,Nichols-Harrison,2026-05-29,Free,0,Europe,315,False,,9,1,17
+CS1047,Garcia Ltd,2026-05-29,Free,0,Europe,70,False,,5,2,3
+CS1048,Lewis Group,2026-05-29,Pro,99,India,109,False,,6,4,20
+CS1049,"Nicholson, Everett and Taylor",2026-05-29,Pro,99,USA,466,False,,1,2,20
+CS1050,Marshall-Wallace,2026-05-29,Starter,29,India,328,True,2026-07-08,5,3,14
+CS1051,"Rodriguez, Malone and Johnson",2026-05-29,Starter,29,USA,485,True,2026-06-24,3,9,1
+CS1052,Lane Inc,2026-05-29,Pro,99,USA,67,False,,1,5,11
+CS1053,Brown Group,2026-05-29,Pro,99,Europe,462,False,,6,4,7
+CS1054,Robertson-Reid,2026-05-29,Starter,29,USA,449,False,,7,10,4
+CS1055,Romero-Solomon,2026-05-29,Enterprise,499,India,411,False,,3,7,0
+CS1056,Mills-Williams,2026-05-29,Free,0,SEA,212,False,,4,5,5
+CS1057,Fowler-Armstrong,2026-05-29,Pro,99,India,441,False,,8,4,6
+CS1058,Stone-Lee,2026-05-29,Pro,99,USA,409,False,,4,4,0
+CS1059,Sutton Ltd,2026-05-29,Starter,29,USA,37,False,,5,6,20
+CS1060,Huff-Reed,2026-05-29,Starter,29,Europe,171,False,,1,2,8
+CS1061,Dixon-Miller,2026-05-29,Free,0,SEA,307,True,2026-07-02,7,6,10
+CS1062,White Ltd,2026-05-29,Starter,29,SEA,99,True,2026-10-30,5,1,13
+CS1063,Vasquez-Rogers,2026-05-29,Free,0,SEA,370,False,,4,6,13
+CS1064,"Collins, Adams and Sandoval",2026-05-29,Free,0,Europe,341,True,2026-08-24,2,12,9
+CS1065,"Wood, Ali and Hickman",2026-05-29,Starter,29,Europe,358,False,,5,9,4
+CS1066,Cruz Inc,2026-05-29,Free,0,Europe,317,True,2026-07-19,10,5,12
+CS1067,Mcconnell LLC,2026-05-29,Starter,29,India,222,False,,10,10,20
+CS1068,Johnson-Riggs,2026-05-29,Free,0,USA,263,False,,8,12,5
+CS1069,"Fitzpatrick, Williams and Brown",2026-05-29,Starter,29,India,319,False,,6,2,7
+CS1070,Glass-Perez,2026-05-29,Starter,29,India,25,True,2026-06-11,4,8,19
+CS1071,Garcia PLC,2026-05-29,Pro,99,India,324,False,,10,4,12
+CS1072,Torres PLC,2026-05-29,Starter,29,India,4,False,,2,7,7
+CS1073,Miller-Smith,2026-05-29,Free,0,SEA,27,False,,9,4,3
+CS1074,"Clark, Lane and Melendez",2026-05-29,Starter,29,Europe,288,False,,10,6,14
+CS1075,Kim Inc,2026-05-29,Starter,29,Europe,427,False,,9,8,5
+CS1076,Benson-Murphy,2026-05-29,Pro,99,USA,128,False,,5,9,15
+CS1077,Rivas PLC,2026-05-29,Starter,29,India,122,True,2026-08-17,5,6,10
+CS1078,Nunez-Oneal,2026-05-29,Pro,99,India,198,False,,3,12,6
+CS1079,"Freeman, Davis and Morgan",2026-05-29,Free,0,USA,214,False,,1,4,13
+CS1080,Bass Ltd,2026-05-29,Free,0,Europe,12,False,,10,7,15
+CS1081,"Orozco, Casey and Ortiz",2026-05-29,Free,0,USA,438,False,,7,9,17
+CS1082,French-Frank,2026-05-29,Pro,99,Europe,141,False,,7,8,0
+CS1083,Smith Group,2026-05-29,Free,0,Europe,372,False,,3,8,4
+CS1084,Miller LLC,2026-05-29,Enterprise,499,USA,305,False,,10,11,0
+CS1085,Snyder Ltd,2026-05-29,Free,0,USA,95,False,,1,5,12
+CS1086,Velez LLC,2026-05-29,Free,0,USA,144,True,2026-09-10,7,5,2
+CS1087,"Jones, Howard and Joseph",2026-05-29,Starter,29,Europe,116,True,2026-09-02,2,11,1
+CS1088,Landry-Martin,2026-05-29,Pro,99,SEA,12,False,,10,3,7
+CS1089,Valdez-Fernandez,2026-05-29,Free,0,Europe,113,False,,8,12,8
+CS1090,Bennett-Ramirez,2026-05-29,Pro,99,India,384,False,,2,3,9
+CS1091,Vasquez LLC,2026-05-29,Free,0,India,466,True,2026-11-25,7,7,6
+CS1092,Johnson-David,2026-05-29,Free,0,Europe,54,False,,5,11,19
+CS1093,Johnson-Francis,2026-05-29,Pro,99,Europe,23,False,,6,9,13
+CS1094,Smith Inc,2026-05-29,Starter,29,India,8,False,,7,8,3
+CS1095,Burton-Cannon,2026-05-29,Starter,29,USA,237,False,,3,7,5
+CS1096,"Palmer, Flores and Hancock",2026-05-29,Pro,99,SEA,415,False,,9,8,14
+CS1097,Jimenez PLC,2026-05-29,Starter,29,Europe,438,False,,4,2,8
+CS1098,Watkins LLC,2026-05-29,Pro,99,India,314,False,,7,6,0
+CS1099,Campos-Webb,2026-05-29,Starter,29,India,183,False,,5,6,8
+CS1100,Bates-Campbell,2026-05-29,Pro,99,Europe,7,False,,9,4,2
+CS1101,White-Lewis,2026-05-29,Free,0,USA,125,False,,8,11,15
+CS1102,Hull-Foster,2026-05-29,Starter,29,India,209,False,,4,5,18
+CS1103,Stevenson-Jones,2026-05-29,Free,0,USA,171,True,2026-10-23,6,12,14
+CS1104,Walker-Cole,2026-05-29,Free,0,India,163,True,2026-07-24,2,12,17
+CS1105,Brown-Hall,2026-05-29,Enterprise,499,Europe,380,False,,8,5,18
+CS1106,Barber-Wallace,2026-05-29,Enterprise,499,USA,53,False,,4,5,7
+CS1107,"Warren, Smith and Maldonado",2026-05-29,Free,0,India,66,False,,5,1,1
+CS1108,"Burton, Harris and Trujillo",2026-05-29,Starter,29,Europe,54,True,2026-10-08,1,10,9
+CS1109,Watkins Inc,2026-05-29,Starter,29,USA,131,True,2026-06-18,8,2,2
+CS1110,"Wilson, Graham and Taylor",2026-05-29,Starter,29,India,29,False,,3,3,18
+CS1111,"King, Warner and George",2026-05-29,Enterprise,499,India,287,False,,7,10,19
+CS1112,Graham-Miles,2026-05-29,Pro,99,India,232,False,,8,5,18
+CS1113,"Taylor, Wallace and Marshall",2026-05-29,Enterprise,499,India,314,False,,2,4,20
+CS1114,Nguyen-Salas,2026-05-29,Free,0,Europe,284,True,2026-07-19,2,3,0
+CS1115,Castaneda-Thompson,2026-05-29,Starter,29,Europe,18,False,,4,5,9
+CS1116,"Kaiser, Jones and Powell",2026-05-29,Pro,99,USA,475,False,,5,11,18
+CS1117,"Williams, Johnson and Johnson",2026-05-29,Starter,29,SEA,280,False,,4,11,4
+CS1118,"Garcia, Davis and Hudson",2026-05-29,Enterprise,499,Europe,86,False,,5,10,18
+CS1119,"Roberts, Armstrong and Obrien",2026-05-29,Enterprise,499,USA,157,False,,7,5,16
+CS1120,Walker-Campos,2026-05-29,Starter,29,USA,457,False,,7,12,10
+CS1121,Camacho PLC,2026-05-29,Starter,29,India,430,True,2026-11-24,10,10,0
+CS1122,Cortez and Sons,2026-05-29,Enterprise,499,Europe,22,False,,3,8,16
+CS1123,Ballard-Hunter,2026-05-29,Starter,29,SEA,225,True,2026-11-01,8,2,15
+CS1124,Jones Ltd,2026-05-29,Free,0,India,441,False,,3,6,13
+CS1125,Rodriguez and Sons,2026-05-29,Starter,29,India,418,False,,9,1,14
+CS1126,Todd-Young,2026-05-29,Free,0,India,444,True,2026-09-16,9,1,17
+CS1127,Diaz Ltd,2026-05-29,Starter,29,India,320,False,,8,11,14
+CS1128,"Bernard, Oliver and Berg",2026-05-29,Pro,99,India,476,False,,5,8,15
+CS1129,"Mitchell, Bowman and Hill",2026-05-29,Free,0,SEA,124,False,,3,5,17
+CS1130,Peterson-Vargas,2026-05-29,Free,0,USA,238,True,2026-07-04,2,11,4
+CS1131,Taylor-Lopez,2026-05-29,Starter,29,Europe,141,False,,7,8,15
+CS1132,"Stone, Gillespie and Martinez",2026-05-29,Free,0,USA,262,True,2026-11-05,3,2,8
+CS1133,"Leon, Buchanan and Howard",2026-05-29,Pro,99,Europe,405,False,,9,5,0
+CS1134,"Hall, Spence and Cherry",2026-05-29,Free,0,India,339,False,,8,3,14
+CS1135,"Ross, Kim and Holmes",2026-05-29,Starter,29,India,280,False,,7,8,10
+CS1136,Vance-Flores,2026-05-29,Pro,99,SEA,198,False,,4,7,1
+CS1137,"Fowler, Henderson and Sullivan",2026-05-29,Free,0,USA,197,False,,7,11,20
+CS1138,Booker Ltd,2026-05-29,Enterprise,499,USA,496,True,2026-10-11,10,6,3
+CS1139,Bates Ltd,2026-05-29,Pro,99,USA,235,False,,1,12,4
+CS1140,"Vaughn, Norman and Cox",2026-05-29,Starter,29,Europe,402,True,2026-10-03,5,6,19
+CS1141,"Wallace, Allen and Tyler",2026-05-29,Starter,29,USA,438,False,,9,7,10
+CS1142,"Harvey, Meza and Acosta",2026-05-29,Starter,29,Europe,279,False,,1,10,2
+CS1143,Hudson-Waters,2026-05-29,Free,0,Europe,384,True,2026-08-02,2,7,3
+CS1144,"Prince, Blackburn and Reed",2026-05-29,Pro,99,Europe,357,True,2026-07-17,5,1,1
+CS1145,Miller Ltd,2026-05-29,Free,0,India,76,True,2026-09-23,4,9,13
+CS1146,Cooper-Bowman,2026-05-29,Starter,29,Europe,314,True,2026-06-25,7,10,7
+CS1147,Johnson-Jones,2026-05-29,Starter,29,USA,132,True,2026-11-15,8,5,0
+CS1148,"Hendricks, Welch and Evans",2026-05-29,Pro,99,USA,281,False,,3,2,14
+CS1149,Jackson Inc,2026-05-29,Enterprise,499,SEA,494,False,,7,12,8
+CS1150,"Michael, Simmons and Noble",2026-05-29,Starter,29,India,438,False,,8,2,7
+CS1151,Sawyer Ltd,2026-05-29,Free,0,USA,13,True,2026-08-19,7,5,0
+CS1152,Garcia Inc,2026-05-29,Starter,29,Europe,27,False,,10,12,15
+CS1153,Hammond Group,2026-05-29,Pro,99,SEA,119,False,,10,6,7
+CS1154,Bowen-Sweeney,2026-05-29,Starter,29,USA,371,False,,3,11,3
+CS1155,Glover LLC,2026-05-29,Enterprise,499,USA,227,False,,1,10,11
+CS1156,"Peterson, Howell and Knight",2026-05-29,Pro,99,India,384,False,,7,3,6
+CS1157,Glass-Lewis,2026-05-29,Free,0,USA,273,False,,9,5,5
+CS1158,Palmer LLC,2026-05-29,Free,0,Europe,414,False,,5,12,10
+CS1159,Smith-White,2026-05-29,Pro,99,USA,442,True,2026-08-01,7,9,11
+CS1160,Payne PLC,2026-05-29,Free,0,USA,234,True,2026-07-06,6,11,8
+CS1161,Nguyen-Stanley,2026-05-29,Starter,29,Europe,57,False,,4,8,0
+CS1162,Maldonado-Tate,2026-05-29,Starter,29,SEA,314,False,,4,11,2
+CS1163,Brown-Sanders,2026-05-29,Starter,29,USA,334,False,,7,2,4
+CS1164,Lopez Inc,2026-05-29,Free,0,India,61,False,,2,4,17
+CS1165,"Powers, Williams and Bender",2026-05-29,Free,0,USA,382,False,,9,7,18
+CS1166,Garner-Thomas,2026-05-29,Pro,99,India,52,False,,8,10,13
+CS1167,"Stewart, Gomez and Gonzalez",2026-05-29,Enterprise,499,India,113,False,,8,8,7
+CS1168,James PLC,2026-05-29,Pro,99,India,280,False,,6,1,12
+CS1169,Graves-Sparks,2026-05-29,Free,0,SEA,423,False,,8,2,6
+CS1170,Williams Group,2026-05-29,Starter,29,USA,126,True,2026-08-29,3,10,6
+CS1171,Watts-Norton,2026-05-29,Free,0,Europe,418,True,2026-07-30,4,6,4
+CS1172,Tanner-Martinez,2026-05-29,Pro,99,USA,76,False,,3,9,8
+CS1173,Jimenez Inc,2026-05-29,Pro,99,India,69,False,,1,6,7
+CS1174,Scott-Dunn,2026-05-29,Starter,29,India,66,False,,7,9,3
+CS1175,"Thompson, Oliver and Richards",2026-05-29,Pro,99,USA,264,False,,10,2,14
+CS1176,Brown Inc,2026-05-29,Starter,29,SEA,268,True,2026-11-20,5,8,20
+CS1177,Christian-Johnson,2026-05-29,Enterprise,499,India,207,False,,7,11,3
+CS1178,"Lee, Walker and Hernandez",2026-05-29,Starter,29,SEA,166,True,2026-06-25,10,3,2
+CS1179,Johnson PLC,2026-05-29,Free,0,USA,366,False,,6,7,19
+CS1180,Larson PLC,2026-05-29,Starter,29,USA,52,False,,2,11,20
+CS1181,Gibson Group,2026-05-29,Pro,99,USA,222,False,,8,4,13
+CS1182,"Nguyen, Sandoval and Allen",2026-05-29,Free,0,USA,162,True,2026-06-29,7,6,8
+CS1183,Wilson-Wright,2026-05-29,Free,0,India,36,False,,2,2,2
+CS1184,"Martin, Jones and Murphy",2026-05-29,Starter,29,Europe,68,False,,9,1,18
+CS1185,Martin-Cowan,2026-05-29,Enterprise,499,USA,212,False,,6,11,13
+CS1186,"Haynes, Friedman and Melton",2026-05-29,Pro,99,Europe,309,False,,5,6,3
+CS1187,Collins PLC,2026-05-29,Starter,29,India,116,False,,2,6,17
+CS1188,"Everett, Townsend and Hill",2026-05-29,Free,0,Europe,415,False,,7,9,19
+CS1189,Payne-Duffy,2026-05-29,Starter,29,USA,426,True,2026-11-20,5,1,5
+CS1190,"Burch, Jordan and Moore",2026-05-29,Free,0,Europe,181,False,,1,3,4
+CS1191,Davis-Fuller,2026-05-29,Starter,29,USA,499,True,2026-11-14,1,2,16
+CS1192,"Knox, Coleman and Hill",2026-05-29,Free,0,USA,161,True,2026-09-07,6,10,19
+CS1193,Hill LLC,2026-05-29,Free,0,India,27,True,2026-11-10,2,5,14
+CS1194,Hansen Inc,2026-05-29,Starter,29,USA,141,False,,4,9,3
+CS1195,Roy-Hawkins,2026-05-29,Free,0,India,305,False,,8,9,9
+CS1196,Peters Group,2026-05-29,Free,0,USA,5,False,,4,5,6
+CS1197,"James, Valdez and Decker",2026-05-29,Pro,99,Europe,63,False,,1,8,13
+CS1198,"Chandler, Burch and Jones",2026-05-29,Free,0,USA,258,False,,9,11,11
+CS1199,Simmons-Farmer,2026-05-29,Free,0,Europe,237,True,2026-06-09,2,6,18
+CS1200,Ellis-Olson,2026-05-29,Starter,29,USA,150,False,,2,7,0
+CS1201,Dominguez-Shelton,2026-05-29,Enterprise,499,India,237,False,,6,2,13
+CS1202,Parker-Irwin,2026-05-29,Pro,99,India,270,False,,2,7,9
+CS1203,Mejia-Foley,2026-05-29,Pro,99,India,41,False,,9,11,3
+CS1204,Cole-Ross,2026-05-29,Starter,29,India,181,False,,3,4,3
+CS1205,Zamora Inc,2026-05-29,Free,0,India,391,False,,2,3,20
+CS1206,Mccall-Holden,2026-05-29,Starter,29,Europe,231,False,,10,11,20
+CS1207,Watson Ltd,2026-05-29,Enterprise,499,India,163,False,,3,8,2
+CS1208,Francis-Martin,2026-05-29,Starter,29,USA,304,False,,1,6,16
+CS1209,"Richards, Ellis and Robles",2026-05-29,Free,0,USA,427,True,2026-09-07,5,2,20
+CS1210,Hughes Inc,2026-05-29,Pro,99,Europe,261,False,,7,8,18
+CS1211,Willis-Williams,2026-05-29,Starter,29,Europe,232,False,,10,11,6
+CS1212,Walters and Sons,2026-05-29,Free,0,USA,232,True,2026-06-20,2,6,2
+CS1213,Wallace and Sons,2026-05-29,Starter,29,India,226,True,2026-09-25,9,9,19
+CS1214,Jenkins-Perry,2026-05-29,Free,0,USA,398,True,2026-09-17,6,11,19
+CS1215,Duran Inc,2026-05-29,Free,0,USA,50,True,2026-08-28,9,11,12
+CS1216,Ward-White,2026-05-29,Free,0,Europe,466,False,,10,3,10
+CS1217,Woods-Mueller,2026-05-29,Free,0,Europe,160,False,,7,3,19
+CS1218,"Sims, Lee and Johnson",2026-05-29,Pro,99,India,331,False,,6,3,16
+CS1219,Pace-Thomas,2026-05-29,Free,0,Europe,11,False,,6,5,5
+CS1220,"Lee, Booth and Schultz",2026-05-29,Enterprise,499,India,100,False,,4,3,4
+CS1221,Knight Ltd,2026-05-29,Free,0,Europe,429,True,2026-10-21,9,1,10
+CS1222,Taylor-Walls,2026-05-29,Pro,99,USA,80,False,,3,3,19
+CS1223,Hall Ltd,2026-05-29,Pro,99,India,212,False,,6,11,7
+CS1224,Thomas-Phillips,2026-05-29,Enterprise,499,USA,403,False,,8,4,17
+CS1225,"Skinner, Becker and Fisher",2026-05-29,Free,0,SEA,464,False,,4,6,18
+CS1226,"Henson, Morales and Mcclain",2026-05-29,Enterprise,499,USA,197,False,,9,9,13
+CS1227,Andrews Ltd,2026-05-29,Enterprise,499,Europe,72,False,,5,1,20
+CS1228,"Martinez, Kirk and Perez",2026-05-29,Starter,29,USA,366,False,,9,2,9
+CS1229,Roberson and Sons,2026-05-29,Free,0,India,77,True,2026-10-14,7,2,7
+CS1230,Fox-Lane,2026-05-29,Pro,99,Europe,214,False,,1,7,16
+CS1231,Bell PLC,2026-05-29,Free,0,USA,16,True,2026-08-01,6,2,20
+CS1232,Martinez-Martinez,2026-05-29,Free,0,India,358,True,2026-10-03,3,12,15
+CS1233,Ellis LLC,2026-05-29,Starter,29,India,112,True,2026-08-09,3,9,19
+CS1234,Boyd Inc,2026-05-29,Starter,29,India,156,False,,2,1,7
+CS1235,"Owen, Sullivan and Ramirez",2026-05-29,Starter,29,Europe,58,False,,8,10,17
+CS1236,"Leach, Webb and Morrison",2026-05-29,Free,0,USA,151,True,2026-07-11,7,1,19
+CS1237,Woods Inc,2026-05-29,Free,0,USA,45,True,2026-11-23,9,6,2
+CS1238,Williams and Sons,2026-05-29,Enterprise,499,USA,261,False,,9,1,12
+CS1239,Brown PLC,2026-05-29,Pro,99,India,193,False,,5,12,0
+CS1240,Collins-Carroll,2026-05-29,Free,0,India,323,True,2026-11-20,2,10,10
+CS1241,"Cook, Schroeder and Wang",2026-05-29,Free,0,USA,91,True,2026-11-16,8,12,15
+CS1242,Fernandez-King,2026-05-29,Starter,29,Europe,20,True,2026-09-30,5,4,1
+CS1243,Haynes PLC,2026-05-29,Pro,99,Europe,160,False,,9,7,17
+CS1244,"Russell, King and Ferguson",2026-05-29,Starter,29,India,148,False,,6,1,20
+CS1245,Franco Ltd,2026-05-29,Free,0,India,382,True,2026-09-15,8,7,10
+CS1246,Schroeder Group,2026-05-29,Enterprise,499,USA,475,False,,9,5,2
+CS1247,"Griffin, Ramos and King",2026-05-29,Pro,99,India,423,False,,3,9,9
+CS1248,Martinez-Gray,2026-05-29,Free,0,India,158,False,,8,10,13
+CS1249,Vargas Inc,2026-05-29,Free,0,USA,316,True,2026-09-03,7,5,20
+CS1250,"Jackson, Schmidt and Ford",2026-05-29,Enterprise,499,SEA,328,False,,7,6,16
+CS1251,Farmer-Watson,2026-05-29,Pro,99,Europe,75,False,,10,11,14
+CS1252,Cameron-Sanders,2026-05-29,Free,0,India,189,False,,6,7,18
+CS1253,Powell-Morrison,2026-05-29,Free,0,India,192,True,2026-09-07,8,2,18
+CS1254,Patterson-Tanner,2026-05-29,Free,0,USA,129,True,2026-08-15,2,1,5
+CS1255,"Finley, Andrews and Lucas",2026-05-29,Starter,29,USA,136,False,,5,12,14
+CS1256,"Thomas, Diaz and Nichols",2026-05-29,Free,0,USA,253,False,,4,2,4
+CS1257,"Thomas, Stephenson and Moore",2026-05-29,Pro,99,USA,229,False,,2,11,10
+CS1258,"Mcintyre, Moreno and Barnes",2026-05-29,Starter,29,Europe,150,False,,5,3,20
+CS1259,Barry-Novak,2026-05-29,Free,0,USA,407,True,2026-07-26,3,4,15
+CS1260,Pope-Lee,2026-05-29,Free,0,USA,68,True,2026-10-24,10,2,2
+CS1261,"Long, Torres and Daniels",2026-05-29,Free,0,SEA,271,False,,7,7,18
+CS1262,Spencer Group,2026-05-29,Free,0,SEA,232,False,,8,11,16
+CS1263,"Anderson, Garcia and Mack",2026-05-29,Free,0,Europe,329,False,,10,3,4
+CS1264,Floyd-Sanders,2026-05-29,Starter,29,SEA,267,True,2026-07-06,3,5,5
+CS1265,"Ellis, Caldwell and Rodriguez",2026-05-29,Free,0,SEA,460,True,2026-10-15,5,2,8
+CS1266,"Williams, Cervantes and Schultz",2026-05-29,Free,0,SEA,157,True,2026-11-12,10,9,2
+CS1267,"Norris, Alvarez and Owens",2026-05-29,Starter,29,India,80,False,,3,11,19
+CS1268,"Hammond, Burton and Robles",2026-05-29,Pro,99,USA,290,False,,1,1,2
+CS1269,"Klein, Holmes and Martin",2026-05-29,Free,0,USA,335,False,,4,10,13
+CS1270,Parker-Baird,2026-05-29,Starter,29,India,281,False,,5,11,9
+CS1271,Beltran-Harrington,2026-05-29,Starter,29,Europe,154,False,,8,2,1
+CS1272,Rollins and Sons,2026-05-29,Free,0,USA,176,False,,10,3,10
+CS1273,"Jackson, Johnson and Evans",2026-05-29,Pro,99,India,178,False,,7,3,11
+CS1274,Cruz Ltd,2026-05-29,Starter,29,India,138,True,2026-07-06,8,4,4
+CS1275,Smith-Miller,2026-05-29,Free,0,India,216,True,2026-11-09,4,3,10
+CS1276,Bailey Group,2026-05-29,Enterprise,499,Europe,83,False,,8,9,14
+CS1277,Cisneros-Small,2026-05-29,Starter,29,India,260,True,2026-09-13,8,4,6
+CS1278,Alexander-Macias,2026-05-29,Starter,29,India,307,False,,8,5,17
+CS1279,Mcdonald-Leach,2026-05-29,Free,0,India,374,True,2026-08-11,6,7,11
+CS1280,Gibbs-Marquez,2026-05-29,Free,0,India,187,False,,9,5,2
+CS1281,Bell Inc,2026-05-29,Free,0,USA,424,False,,10,11,19
+CS1282,Elliott-Collins,2026-05-29,Free,0,SEA,287,True,2026-08-30,6,3,6
+CS1283,Olson-Valdez,2026-05-29,Starter,29,USA,72,True,2026-06-14,6,8,16
+CS1284,"Sims, Kelley and Pierce",2026-05-29,Starter,29,USA,169,False,,10,6,5
+CS1285,Mcdaniel PLC,2026-05-29,Free,0,USA,305,False,,6,9,16
+CS1286,Mason and Sons,2026-05-29,Starter,29,Europe,419,False,,1,6,10
+CS1287,Smith Group,2026-05-29,Starter,29,SEA,409,False,,1,10,15
+CS1288,Gibson-Fritz,2026-05-29,Free,0,Europe,298,False,,10,4,1
+CS1289,Donaldson PLC,2026-05-29,Starter,29,India,319,False,,7,3,7
+CS1290,Castillo-Aguirre,2026-05-29,Free,0,SEA,227,True,2026-06-09,6,7,4
+CS1291,"Brown, Gomez and Tyler",2026-05-29,Starter,29,India,315,False,,8,12,1
+CS1292,Wagner-Moore,2026-05-29,Pro,99,USA,341,False,,8,9,12
+CS1293,Arroyo-Ingram,2026-05-29,Free,0,India,177,False,,9,6,20
+CS1294,Woods LLC,2026-05-29,Pro,99,India,492,False,,4,5,17
+CS1295,Hicks-Thompson,2026-05-29,Free,0,SEA,396,False,,5,12,6
+CS1296,Patton-Johnson,2026-05-29,Starter,29,USA,288,False,,5,5,3
+CS1297,Rose and Sons,2026-05-29,Starter,29,USA,204,False,,6,3,9
+CS1298,Dougherty Inc,2026-05-29,Free,0,SEA,337,True,2026-09-26,5,12,15
+CS1299,Pruitt Group,2026-05-29,Free,0,Europe,358,True,2026-10-26,5,3,3
+CS1300,Wilson-Harper,2026-05-29,Starter,29,USA,465,True,2026-11-23,9,4,20
+CS1301,Vazquez-Smith,2026-05-29,Free,0,India,53,True,2026-10-03,3,1,17
+CS1302,"Allen, Ashley and Evans",2026-05-29,Enterprise,499,India,452,False,,8,8,20
+CS1303,Berry and Sons,2026-05-29,Free,0,SEA,32,True,2026-11-17,2,11,18
+CS1304,"Nelson, Stephens and Martinez",2026-05-29,Free,0,Europe,21,False,,3,7,5
+CS1305,Curry-Olson,2026-05-29,Enterprise,499,India,405,False,,8,3,9
+CS1306,Gonzales Ltd,2026-05-29,Pro,99,India,56,False,,6,5,14
+CS1307,White LLC,2026-05-29,Enterprise,499,USA,482,False,,3,9,14
+CS1308,Barnett-Lloyd,2026-05-29,Free,0,Europe,333,True,2026-09-30,5,12,5
+CS1309,Webb LLC,2026-05-29,Free,0,India,389,True,2026-11-24,4,3,19
+CS1310,"Cooper, Beck and Nguyen",2026-05-29,Pro,99,Europe,265,False,,6,2,12
+CS1311,"Lam, Chavez and Thomas",2026-05-29,Starter,29,India,481,True,2026-08-26,4,1,8
+CS1312,Martinez-Adams,2026-05-29,Free,0,USA,156,True,2026-08-28,10,12,18
+CS1313,"Hernandez, Thornton and Griffin",2026-05-29,Free,0,Europe,33,False,,2,8,9
+CS1314,"Simpson, Kennedy and Wyatt",2026-05-29,Free,0,Europe,456,False,,5,12,3
+CS1315,"Graham, Rodriguez and Middleton",2026-05-29,Starter,29,SEA,115,False,,4,3,15
+CS1316,Larson Ltd,2026-05-29,Free,0,Europe,214,False,,9,8,17
+CS1317,Johnson-Cabrera,2026-05-29,Pro,99,Europe,350,False,,10,2,16
+CS1318,Fisher-Holt,2026-05-29,Starter,29,Europe,59,True,2026-10-27,1,9,16
+CS1319,Carr Inc,2026-05-29,Free,0,USA,228,True,2026-10-16,2,11,6
+CS1320,"Frye, Martinez and Miranda",2026-05-29,Pro,99,USA,230,False,,1,8,4
+CS1321,Santos-Harris,2026-05-29,Starter,29,USA,346,True,2026-10-01,5,12,0
+CS1322,Reed PLC,2026-05-29,Free,0,Europe,298,False,,2,1,13
+CS1323,Jones-Campbell,2026-05-29,Free,0,India,480,False,,2,8,1
+CS1324,"Graham, Mejia and Vance",2026-05-29,Free,0,India,375,True,2026-11-16,7,6,12
+CS1325,Davis-Hill,2026-05-29,Starter,29,SEA,43,False,,9,3,20
+CS1326,"Coleman, Davis and Johnson",2026-05-29,Pro,99,India,203,False,,9,3,7
+CS1327,"George, Crawford and Sherman",2026-05-29,Pro,99,Europe,239,False,,9,7,17
+CS1328,"Church, Vargas and Johnson",2026-05-29,Free,0,India,81,False,,5,4,3
+CS1329,House-Lucas,2026-05-29,Free,0,Europe,481,False,,1,4,6
+CS1330,"Dawson, Parker and Gonzalez",2026-05-29,Free,0,USA,362,True,2026-11-24,1,4,1
+CS1331,Padilla Ltd,2026-05-29,Starter,29,India,73,True,2026-06-19,9,5,7
+CS1332,Jordan-Gregory,2026-05-29,Pro,99,Europe,308,False,,6,4,9
+CS1333,Howell-Thompson,2026-05-29,Pro,99,SEA,213,False,,5,5,1
+CS1334,Carey Group,2026-05-29,Starter,29,USA,91,False,,7,9,15
+CS1335,Williams LLC,2026-05-29,Free,0,India,197,False,,9,6,13
+CS1336,"Smith, Frank and Palmer",2026-05-29,Starter,29,India,244,True,2026-10-20,4,4,9
+CS1337,Kirby-Vasquez,2026-05-29,Pro,99,India,31,False,,9,7,13
+CS1338,Hodge-Johnson,2026-05-29,Starter,29,India,171,True,2026-07-27,2,8,11
+CS1339,"Williams, Cross and Anderson",2026-05-29,Free,0,Europe,195,True,2026-08-12,10,10,1
+CS1340,Wright Inc,2026-05-29,Pro,99,India,372,False,,9,4,15
+CS1341,Hudson-Schultz,2026-05-29,Free,0,SEA,110,True,2026-06-08,4,12,3
+CS1342,Jones LLC,2026-05-29,Pro,99,Europe,358,False,,10,12,6
+CS1343,Campbell Inc,2026-05-29,Free,0,India,196,True,2026-08-16,8,9,20
+CS1344,Johnson-Little,2026-05-29,Free,0,India,256,False,,8,2,15
+CS1345,"Simpson, Simon and English",2026-05-29,Pro,99,India,162,False,,7,1,18
+CS1346,"Edwards, Day and Hudson",2026-05-29,Pro,99,Europe,480,True,2026-10-24,10,10,13
+CS1347,Jones Inc,2026-05-29,Free,0,India,428,True,2026-10-28,4,8,17
+CS1348,Lin Ltd,2026-05-29,Starter,29,Europe,422,False,,8,12,20
+CS1349,"Luna, Byrd and Stewart",2026-05-29,Pro,99,USA,182,False,,3,3,17
+CS1350,"Sanders, Marshall and Moreno",2026-05-29,Starter,29,SEA,330,False,,1,9,1
+CS1351,Hicks Group,2026-05-29,Pro,99,India,26,False,,1,7,4
+CS1352,Todd Ltd,2026-05-29,Pro,99,India,6,False,,4,9,14
+CS1353,Dennis-Eaton,2026-05-29,Free,0,USA,317,False,,8,11,15
+CS1354,Mcpherson-Skinner,2026-05-29,Free,0,USA,273,True,2026-06-09,5,9,9
+CS1355,Cochran LLC,2026-05-29,Free,0,Europe,414,False,,3,2,3
+CS1356,"Hernandez, Smith and Williams",2026-05-29,Starter,29,India,131,False,,6,5,12
+CS1357,"Mahoney, Hansen and Smith",2026-05-29,Free,0,SEA,126,False,,4,5,2
+CS1358,Flores-Harvey,2026-05-29,Starter,29,Europe,49,False,,7,7,12
+CS1359,Bush-Vasquez,2026-05-29,Starter,29,India,44,True,2026-07-18,8,7,20
+CS1360,"Caldwell, Harris and Jennings",2026-05-29,Pro,99,USA,50,False,,9,1,7
+CS1361,"Gibson, Martinez and Smith",2026-05-29,Free,0,Europe,245,False,,5,1,2
+CS1362,West Inc,2026-05-29,Starter,29,India,338,False,,1,3,10
+CS1363,"Rose, Lindsey and Garcia",2026-05-29,Free,0,India,477,True,2026-09-14,2,5,5
+CS1364,Barton-Atkins,2026-05-29,Starter,29,USA,348,False,,9,6,12
+CS1365,"Ball, Johnson and Burns",2026-05-29,Pro,99,India,372,False,,2,9,11
+CS1366,Glass-Smith,2026-05-29,Free,0,USA,176,False,,10,10,19
+CS1367,Harmon Group,2026-05-29,Free,0,Europe,403,True,2026-08-13,8,8,7
+CS1368,Brown PLC,2026-05-29,Free,0,SEA,340,True,2026-11-01,7,2,19
+CS1369,"Baker, Maxwell and Sheppard",2026-05-29,Free,0,India,80,True,2026-08-12,7,12,20
+CS1370,Wheeler LLC,2026-05-29,Free,0,USA,4,True,2026-06-28,5,8,11
+CS1371,Gordon-Williams,2026-05-29,Pro,99,India,231,True,2026-09-23,9,9,16
+CS1372,"Brown, Green and Rice",2026-05-29,Starter,29,India,49,False,,10,10,10
+CS1373,Davis LLC,2026-05-29,Pro,99,India,400,False,,2,12,17
+CS1374,"Young, Griffin and Sims",2026-05-29,Enterprise,499,SEA,88,False,,7,3,4
+CS1375,"Lewis, Cook and Douglas",2026-05-29,Free,0,India,224,True,2026-07-17,5,7,9
+CS1376,Crawford LLC,2026-05-29,Starter,29,India,128,False,,8,10,19
+CS1377,"Lester, Jones and Fleming",2026-05-29,Free,0,India,172,True,2026-09-14,10,7,10
+CS1378,"Fleming, Estrada and Perry",2026-05-29,Starter,29,USA,335,False,,10,3,9
+CS1379,"Graham, Singleton and Henry",2026-05-29,Free,0,SEA,92,True,2026-08-24,7,6,9
+CS1380,Ibarra-Moore,2026-05-29,Pro,99,USA,402,False,,4,6,12
+CS1381,Hernandez-Holland,2026-05-29,Free,0,Europe,104,True,2026-10-27,10,9,5
+CS1382,Riley Inc,2026-05-29,Starter,29,USA,238,False,,4,8,9
+CS1383,Gutierrez and Sons,2026-05-29,Pro,99,India,409,False,,7,11,15
+CS1384,"Andersen, Winters and Fields",2026-05-29,Free,0,India,368,True,2026-07-14,7,7,2
+CS1385,"Murphy, Pierce and Jacobson",2026-05-29,Starter,29,USA,275,False,,9,12,13
+CS1386,Woods Inc,2026-05-29,Starter,29,Europe,460,False,,9,10,20
+CS1387,Green-Chandler,2026-05-29,Enterprise,499,India,342,False,,6,3,20
+CS1388,Harris-Vaughn,2026-05-29,Starter,29,USA,333,False,,7,6,13
+CS1389,"Edwards, Saunders and Sherman",2026-05-29,Free,0,India,287,True,2026-10-15,10,12,18
+CS1390,"Davis, Wood and Christensen",2026-05-29,Free,0,USA,349,False,,10,12,16
+CS1391,Figueroa PLC,2026-05-29,Free,0,SEA,153,False,,7,2,3
+CS1392,"Hoffman, Bailey and Woods",2026-05-29,Pro,99,Europe,177,False,,8,4,16
+CS1393,Jacobs Ltd,2026-05-29,Starter,29,USA,358,False,,8,6,2
+CS1394,Banks Inc,2026-05-29,Free,0,Europe,333,True,2026-08-31,2,11,5
+CS1395,Lynch PLC,2026-05-29,Enterprise,499,Europe,284,False,,3,6,17
+CS1396,Atkins-Bennett,2026-05-29,Starter,29,USA,324,False,,3,3,20
+CS1397,Sims-Hughes,2026-05-29,Starter,29,USA,454,False,,4,8,18
+CS1398,Torres Group,2026-05-29,Starter,29,India,387,True,2026-08-15,2,10,3
+CS1399,Johnson-Werner,2026-05-29,Pro,99,USA,102,False,,8,2,8
+CS1400,"Carter, Ruiz and Gardner",2026-05-29,Starter,29,USA,162,False,,10,7,19
+CS1401,"Harvey, Sloan and Aguirre",2026-05-29,Free,0,India,318,True,2026-09-30,3,11,9
+CS1402,Russell and Sons,2026-05-29,Enterprise,499,USA,162,False,,2,4,9
+CS1403,"Ashley, Snyder and Freeman",2026-05-29,Free,0,USA,216,True,2026-09-12,10,3,18
+CS1404,"Hubbard, Kennedy and Miller",2026-05-29,Free,0,India,357,False,,3,9,5
+CS1405,Mcdonald-Brown,2026-05-29,Starter,29,India,232,False,,10,1,11
+CS1406,Daniel PLC,2026-05-29,Enterprise,499,USA,198,False,,9,9,20
+CS1407,Gomez-Mcclure,2026-05-29,Starter,29,Europe,432,False,,8,8,5
+CS1408,Flowers and Sons,2026-05-29,Free,0,India,151,False,,1,5,7
+CS1409,Maynard-Greer,2026-05-29,Starter,29,India,382,False,,8,9,16
+CS1410,"Rodriguez, Patel and Johnson",2026-05-29,Free,0,India,423,False,,6,9,1
+CS1411,Kline Group,2026-05-29,Pro,99,USA,219,False,,2,12,20
+CS1412,Mitchell-Wolf,2026-05-29,Pro,99,India,232,False,,5,6,2
+CS1413,Harrison-Roman,2026-05-29,Starter,29,SEA,123,False,,4,12,18
+CS1414,Horn PLC,2026-05-29,Starter,29,Europe,221,False,,3,10,4
+CS1415,"Brown, Miles and George",2026-05-29,Pro,99,Europe,293,False,,6,9,8
+CS1416,"Gamble, Robinson and Pearson",2026-05-29,Starter,29,India,151,False,,5,10,8
+CS1417,Reyes Group,2026-05-29,Enterprise,499,USA,419,False,,2,3,13
+CS1418,Butler-Lowe,2026-05-29,Enterprise,499,SEA,66,False,,3,4,4
+CS1419,Pena-Blackwell,2026-05-29,Pro,99,Europe,348,False,,7,8,4
+CS1420,Harrell-Cook,2026-05-29,Starter,29,India,233,False,,2,11,2
+CS1421,Waller and Sons,2026-05-29,Starter,29,Europe,451,False,,6,8,15
+CS1422,Miller-Rojas,2026-05-29,Free,0,India,377,False,,2,12,14
+CS1423,White-Meyer,2026-05-29,Starter,29,Europe,409,False,,9,7,6
+CS1424,"Garcia, Page and Brown",2026-05-29,Enterprise,499,Europe,167,False,,5,6,17
+CS1425,Bowman PLC,2026-05-29,Starter,29,USA,177,False,,1,1,3
+CS1426,Nielsen-Holmes,2026-05-29,Starter,29,Europe,227,True,2026-07-15,8,1,13
+CS1427,Moore-Jimenez,2026-05-29,Free,0,Europe,156,True,2026-11-18,3,5,2
+CS1428,"Anderson, Delgado and Bright",2026-05-29,Starter,29,India,464,False,,3,1,12
+CS1429,"Johnson, Parker and Jackson",2026-05-29,Starter,29,Europe,221,False,,2,12,3
+CS1430,"Vargas, Fletcher and Porter",2026-05-29,Free,0,USA,267,True,2026-08-01,8,1,0
+CS1431,Terry-Case,2026-05-29,Starter,29,Europe,218,False,,3,8,2
+CS1432,Espinoza-Williams,2026-05-29,Free,0,India,54,False,,6,6,9
+CS1433,Phillips-Jones,2026-05-29,Free,0,Europe,70,False,,3,2,16
+CS1434,"Maldonado, Jones and Garrett",2026-05-29,Starter,29,USA,371,True,2026-09-02,4,11,4
+CS1435,Foster Inc,2026-05-29,Enterprise,499,USA,113,False,,2,2,4
+CS1436,Scott-Davila,2026-05-29,Pro,99,USA,495,False,,7,6,4
+CS1437,"Huff, Rodriguez and Vasquez",2026-05-29,Free,0,USA,309,True,2026-11-05,10,5,0
+CS1438,Perez-Newton,2026-05-29,Pro,99,Europe,267,False,,10,9,6
+CS1439,Rogers-Daniel,2026-05-29,Pro,99,India,255,True,2026-08-05,7,2,7
+CS1440,Bryant-Sellers,2026-05-29,Starter,29,USA,8,False,,6,6,4
+CS1441,"Smith, Hernandez and Chandler",2026-05-29,Free,0,Europe,351,True,2026-10-22,3,8,2
+CS1442,"Clark, Palmer and Wagner",2026-05-29,Free,0,India,474,True,2026-06-15,1,7,16
+CS1443,Guerrero-Luna,2026-05-29,Free,0,Europe,218,False,,7,2,20
+CS1444,Garcia-Anderson,2026-05-29,Starter,29,USA,160,False,,2,9,6
+CS1445,Harris-Barker,2026-05-29,Enterprise,499,India,302,False,,2,5,13
+CS1446,Moore-Bradley,2026-05-29,Pro,99,Europe,475,True,2026-06-27,7,2,14
+CS1447,"Williams, Stuart and Johnson",2026-05-29,Starter,29,India,338,False,,3,2,0
+CS1448,Garcia-Farrell,2026-05-29,Pro,99,Europe,489,False,,6,9,16
+CS1449,Fisher-Ware,2026-05-29,Pro,99,Europe,66,False,,5,12,3
+CS1450,White-Ramsey,2026-05-29,Pro,99,India,141,False,,9,2,8
+CS1451,Lloyd and Sons,2026-05-29,Pro,99,USA,263,True,2026-09-29,6,1,15
+CS1452,Mcintosh PLC,2026-05-29,Pro,99,India,397,False,,2,10,3
+CS1453,White Inc,2026-05-29,Free,0,USA,127,True,2026-06-08,1,8,11
+CS1454,Walker-Mcguire,2026-05-29,Free,0,India,441,False,,1,9,20
+CS1455,Anderson PLC,2026-05-29,Starter,29,India,370,False,,6,5,2
+CS1456,Rogers-Lowery,2026-05-29,Starter,29,India,28,False,,3,4,16
+CS1457,Barnes-Hood,2026-05-29,Enterprise,499,SEA,240,False,,5,5,10
+CS1458,"Hernandez, Thompson and Allen",2026-05-29,Free,0,USA,290,True,2026-08-18,5,12,19
+CS1459,Foster-Harris,2026-05-29,Free,0,USA,397,False,,4,12,17
+CS1460,"Oneal, Adams and Vaughan",2026-05-29,Pro,99,India,14,True,2026-09-17,4,9,11
+CS1461,Russell-Brown,2026-05-29,Starter,29,Europe,2,True,2026-08-29,7,12,9
+CS1462,"Jackson, Turner and Harris",2026-05-29,Free,0,USA,494,True,2026-10-08,1,3,8
+CS1463,Williams Group,2026-05-29,Free,0,SEA,268,False,,7,12,11
+CS1464,"Long, May and Mcknight",2026-05-29,Starter,29,Europe,260,False,,3,11,12
+CS1465,Ruiz Ltd,2026-05-29,Free,0,USA,123,True,2026-07-08,5,5,10
+CS1466,"Gentry, Williams and Young",2026-05-29,Enterprise,499,USA,169,False,,6,8,8
+CS1467,Smith-Clarke,2026-05-29,Free,0,SEA,57,True,2026-11-01,3,2,5
+CS1468,Lamb-Gomez,2026-05-29,Starter,29,India,495,True,2026-09-04,4,8,9
+CS1469,"Walker, Johnson and Phelps",2026-05-29,Starter,29,Europe,425,True,2026-08-21,10,1,6
+CS1470,Matthews Ltd,2026-05-29,Pro,99,India,497,True,2026-08-07,6,7,16
+CS1471,"Williams, Marshall and Johnson",2026-05-29,Free,0,India,91,False,,1,7,14
+CS1472,Rodriguez and Sons,2026-05-29,Starter,29,USA,413,True,2026-07-01,3,2,0
+CS1473,"Sullivan, Smith and Jackson",2026-05-29,Free,0,Europe,423,True,2026-07-25,7,6,20
+CS1474,Dean-Lee,2026-05-29,Enterprise,499,India,471,False,,2,1,2
+CS1475,Welch PLC,2026-05-29,Free,0,USA,49,False,,6,2,1
+CS1476,Olson-Barron,2026-05-29,Enterprise,499,India,223,False,,7,8,0
+CS1477,Anderson-Baker,2026-05-29,Free,0,USA,142,True,2026-07-22,5,8,4
+CS1478,Townsend-Olson,2026-05-29,Free,0,USA,257,True,2026-08-19,7,9,15
+CS1479,Thompson-Brown,2026-05-29,Free,0,India,331,True,2026-07-26,9,4,20
+CS1480,Nixon-Bautista,2026-05-29,Enterprise,499,USA,402,True,2026-09-10,6,8,17
+CS1481,Crane Inc,2026-05-29,Pro,99,India,166,False,,7,5,5
+CS1482,Clark-Keith,2026-05-29,Free,0,USA,31,True,2026-08-15,8,9,11
+CS1483,"Johnson, Oneill and King",2026-05-29,Pro,99,SEA,53,False,,4,11,7
+CS1484,Lucero-Hart,2026-05-29,Free,0,Europe,30,False,,4,10,12
+CS1485,Olson Inc,2026-05-29,Free,0,Europe,92,False,,4,10,10
+CS1486,"Hernandez, Figueroa and Hughes",2026-05-29,Pro,99,Europe,16,False,,6,10,18
+CS1487,"Dean, Delgado and Hutchinson",2026-05-29,Free,0,SEA,416,False,,8,9,9
+CS1488,Martin and Sons,2026-05-29,Free,0,India,114,True,2026-11-06,1,9,15
+CS1489,Olson Inc,2026-05-29,Free,0,SEA,176,True,2026-07-08,3,6,1
+CS1490,Aguirre Ltd,2026-05-29,Free,0,USA,398,False,,2,9,11
+CS1491,Nelson LLC,2026-05-29,Enterprise,499,USA,204,False,,10,2,10
+CS1492,Smith and Sons,2026-05-29,Free,0,India,407,True,2026-09-24,8,11,10
+CS1493,Hartman-Hall,2026-05-29,Free,0,SEA,477,False,,10,6,7
+CS1494,Hernandez Ltd,2026-05-29,Starter,29,Europe,377,False,,5,3,5
+CS1495,Bowers LLC,2026-05-29,Pro,99,SEA,202,False,,10,1,5
+CS1496,"Cruz, Waters and Blackburn",2026-05-29,Starter,29,SEA,115,False,,10,2,15
+CS1497,Rose PLC,2026-05-29,Free,0,Europe,87,True,2026-08-25,2,12,20
+CS1498,"Quinn, Smith and Hammond",2026-05-29,Pro,99,India,129,True,2026-07-28,2,6,8
+CS1499,Flores-Soto,2026-05-29,Pro,99,Europe,377,True,2026-09-25,7,3,13
+CS1500,"Williams, Wilkinson and Little",2026-05-29,Starter,29,USA,53,False,,8,10,20
